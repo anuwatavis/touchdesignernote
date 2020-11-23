@@ -1,0 +1,4 @@
+# 1. STARTING TOUCHDESIGNER
+- 3 button mouse 
+# 2. PAN , ZOOM AND CENTER THE NETWORK
+[[Network]]

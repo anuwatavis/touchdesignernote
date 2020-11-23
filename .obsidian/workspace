@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "cccb5c5491598f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "57101ac569ea745f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "FirstThing/Flags.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e49a10a42ba517fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f526e5981e4a1ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1931f43c260e02de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "152f545dbd136957",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "666c289bfb23afea",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f1b8cfb638948b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "690db6a649e1d72f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FirstThing/Flags.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "FirstThing/Flags.md",
+    "FirstThing/Operator.md",
+    "FirstThing/Nodes.md",
+    "Flags.md",
+    "Pasted image 20201123115915.png",
+    "Operator.md",
+    "Nodes.md",
+    "FirstThing/Network.md",
+    "FirstThing/First Things to know about touchdesigner.md",
+    "First Things to know about touchdesigner.md"
+  ]
+}
