@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FirstThing/Flags.md",
+            "file": "FirstThing/Nodes.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FirstThing/Flags.md",
+                "file": "FirstThing/Nodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +86,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "FirstThing/Flags.md",
-    "FirstThing/Operator.md",
     "FirstThing/Nodes.md",
+    "FirstThing/Operator.md",
+    "FirstThing/Flags.md",
     "Flags.md",
     "Pasted image 20201123115915.png",
     "Operator.md",
